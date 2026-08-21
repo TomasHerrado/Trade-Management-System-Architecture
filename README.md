@@ -202,6 +202,8 @@ La app queda disponible en `http://localhost:4200`.
 
 ---
 
-## Licencia
+## 👥 Authors
 
-Proyecto privado / uso personal. Ajustar esta sección si se decide publicar bajo una licencia open source (MIT, Apache 2.0, etc.).
+Developed by:
+
+**Tomás Herrado**
